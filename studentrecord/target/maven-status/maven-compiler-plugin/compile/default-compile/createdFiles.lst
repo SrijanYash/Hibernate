@@ -1,0 +1,7 @@
+com\srijan\model\Student.class
+com\srijan\Main.class
+com\srijan\repository\StudentRepository.class
+com\srijan\service\StudentService.class
+StudentTerminalInterface.class
+com\srijan\HibernateUtil.class
+com\srijan\repository\StudentRepositoryImpl.class
