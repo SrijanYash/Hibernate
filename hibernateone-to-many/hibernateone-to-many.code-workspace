@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../hibernateone-to-many"
+		},
+		{
+			"path": "../../hibernateone-to-one"
+		}
+	],
+	"settings": {}
+}

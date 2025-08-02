@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../hibernateone-to-one"
+		},
+		{
+			"path": "../../../../../../../hybernate1"
+		},
+		{
+			"path": "../../../../../../../hibernateupdatedelete"
+		},
+		{
+			"name": "mycoades",
+			"path": "../../../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
